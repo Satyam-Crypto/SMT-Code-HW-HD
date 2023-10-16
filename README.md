@@ -31,7 +31,7 @@ Side channel attack of the three ciphers are considered; Lizard, Plantlet and Gr
 ## How to run
 
 ### Dependency
-* [Python3](https://www.python.org/download/releases/3.0/)https://www.python.org/download/releases/3.0/)
+* [Python3](https://www.python.org/download/releases/3.0/)
 * [Z3](https://github.com/Z3Prover/z3)
 
 
