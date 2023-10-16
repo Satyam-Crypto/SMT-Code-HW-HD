@@ -7,7 +7,7 @@ Side channel attack of the three ciphers are considered; Lizard, Plantlet and Gr
 ## File Structure
 
 ### Noiseless
-#### GRAIN-1228-AEAD
+#### GRAIN-128-AEAD
     Grain-128-AEAD_HD-Full_Noiseless.ipynb
     Grain-128-AEAD_HD-Reg_Noiseless.ipynb
     Grain-128-AEAD_HW-32_Noiseless.ipynb
